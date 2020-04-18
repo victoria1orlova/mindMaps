@@ -49,6 +49,8 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="ksmiletris"/>
+<node CREATED="1587230920792" ID="ID_1042218101" MODIFIED="1587230954476" TEXT="You are doing it now!"/>
+<node CREATED="1587230966512" ID="ID_730549791" MODIFIED="1587230989212" TEXT="You are doing it now! Aren&apos;t you?"/>
 </node>
 </node>
 </map>
