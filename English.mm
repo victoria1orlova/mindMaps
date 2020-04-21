@@ -402,7 +402,7 @@
 <node CREATED="1587311135753" ID="ID_868199460" MODIFIED="1587311181348" TEXT="What is your weight?"/>
 </node>
 </node>
-<node CREATED="1587300793932" FOLDED="true" ID="ID_1030646935" MODIFIED="1587398627805" POSITION="left" TEXT="phrase">
+<node CREATED="1587300793932" ID="ID_1030646935" MODIFIED="1587455002821" POSITION="left" TEXT="phrase">
 <node CREATED="1587300803046" ID="ID_944776601" MODIFIED="1587310257293" TEXT="initial">
 <node CREATED="1587300875492" ID="ID_106222914" MODIFIED="1587300881527" TEXT="By the way"/>
 <node CREATED="1587300882506" ID="ID_1303704015" MODIFIED="1587300886967" TEXT="In fact"/>
@@ -431,8 +431,7 @@
       &#1048; &#1090;&#1072;&#1082;;<br />&#1055;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587361616655" ID="ID_1771776880" MODIFIED="1587361626249" TEXT="No matter how">
 <node CREATED="1587361662464" ID="ID_627745588" MODIFIED="1587361745499" TEXT="No matter how your work.">
@@ -445,10 +444,9 @@
       &#1053;&#1077; &#1074;&#1072;&#1078;&#1085;&#1086; &#1082;&#1072;&#1082; &#1090;&#1099; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1096;&#1100;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1587361768525" ID="ID_41416020" MODIFIED="1587454586002" TEXT="No matter how she&apos;s studies">
+<node CREATED="1587361768525" ID="ID_41416020" MODIFIED="1587455015304" TEXT="No matter how she&apos;s studies.">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -458,11 +456,10 @@
       &#1053;&#1077;&#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1084;&#1086; &#1086;&#1090; &#1090;&#1086;&#1075;&#1086;, &#1082;&#1072;&#1082; &#1086;&#1085;&#1072; &#1091;&#1095;&#1080;&#1090;&#1089;&#1103;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587454589264" ID="ID_1364115233" MODIFIED="1587454589917" TEXT="No matter how she cooks."/>
-<node CREATED="1587361875820" ID="ID_178219153" MODIFIED="1587362136947" TEXT="No matter how well he&apos;s speak Russian">
+<node CREATED="1587361875820" ID="ID_178219153" MODIFIED="1587455020464" TEXT="No matter how well he&apos;s speak Russian.">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -475,8 +472,7 @@
       &#1053;&#1077; &#1074;&#1072;&#1078;&#1085;&#1086; &#1085;&#1072; &#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1093;&#1086;&#1088;&#1086;&#1096;&#1086; &#1086;&#1085; &#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1090; &#1087;&#1086; &#1088;&#1091;&#1089;&#1089;&#1082;&#1080;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -492,7 +488,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1587307586681" ID="ID_24502619" MODIFIED="1587307803037" TEXT="I&apos;ve worked in a bank for about/around 10 years ago">
+<node CREATED="1587307586681" ID="ID_24502619" MODIFIED="1587455024905" TEXT="I&apos;ve worked in a bank for about/around 10 years ago.">
 <richcontent TYPE="NOTE"><html>
   <head>
     
