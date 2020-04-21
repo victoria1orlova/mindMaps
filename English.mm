@@ -78,8 +78,7 @@
       &#160;- done
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587281900245" ID="ID_678694271" MODIFIED="1587311250488" POSITION="left" TEXT="Perfect">
 <node CREATED="1587281920451" FOLDED="true" ID="ID_478018812" MODIFIED="1587311754411" TEXT="Present perfect tense">
@@ -95,8 +94,7 @@
       She can't find it
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1587297160996" ID="ID_97549523" MODIFIED="1587297486402" TEXT="Recent completed actions">
@@ -119,7 +117,6 @@
 </node>
 </node>
 <node CREATED="1587297995475" ID="ID_133378586" MODIFIED="1587298002104" TEXT="sample">
-<node CREATED="1587298604709" ID="ID_1891624415" MODIFIED="1587298746607" TEXT="I have done it."/>
 <node CREATED="1587298702988" ID="ID_935551597" MODIFIED="1587298748943" TEXT="I have already done it."/>
 <node CREATED="1587298721244" ID="ID_1779499761" MODIFIED="1587298751624" TEXT="I have just done it."/>
 <node CREATED="1587311308249" ID="ID_185459660" MODIFIED="1587311337636" TEXT="I&apos;ve done it a minute ago."/>
@@ -145,8 +142,8 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1587307532386" FOLDED="true" ID="ID_614395794" MODIFIED="1587454588617" POSITION="right" TEXT="Maslov">
-<node CREATED="1587299236709" ID="ID_568163327" MODIFIED="1587311736369" TEXT="06.12.18">
+<node CREATED="1587307532386" FOLDED="true" ID="ID_614395794" MODIFIED="1587398232616" POSITION="right" TEXT="Maslov">
+<node CREATED="1587299236709" ID="ID_568163327" MODIFIED="1587397971355" TEXT="06.12.18">
 <node CREATED="1587299245148" ID="ID_256588483" MODIFIED="1587299303480" TEXT="Have you decided it yet?"/>
 <node CREATED="1587300037956" ID="ID_421181488" MODIFIED="1587300060479" TEXT="I&apos;ve always been Ukrainian."/>
 <node CREATED="1587300080075" ID="ID_906022595" MODIFIED="1587300165247" TEXT="Aren&apos;t you from Italy?">
@@ -284,8 +281,7 @@
       &#1056;&#1072;&#1079;&#1074;&#1077; &#1086;&#1085; &#1085;&#1077; &#1080;&#1084;&#1077;&#1077;&#1090; &#1084;&#1072;&#1096;&#1080;&#1085;&#1099;?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587308017658" ID="ID_832465146" MODIFIED="1587308082822" TEXT="He&apos;s never had a car.">
 <richcontent TYPE="NOTE"><html>
@@ -297,8 +293,7 @@
       &#1059; &#1085;&#1077;&#1075;&#1086; &#1084;&#1072;&#1096;&#1080;&#1085;&#1099; &#1085;&#1080;&#1082;&#1086;&#1075;&#1076;&#1072; &#1085;&#1077; &#1073;&#1099;&#1083;&#1086;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587308083977" ID="ID_181405508" MODIFIED="1587308136182" TEXT="Doesn&apos;t he go to work by taxi?">
 <richcontent TYPE="NOTE"><html>
@@ -310,8 +305,7 @@
       &#1056;&#1072;&#1079;&#1074;&#1077; &#1086;&#1085; &#1085;&#1072; &#1088;&#1072;&#1073;&#1086;&#1090;&#1091; &#1085;&#1077; &#1085;&#1072; &#1090;&#1072;&#1082;&#1089;&#1080; &#1077;&#1079;&#1076;&#1080;&#1090;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587308175841" ID="ID_1952932255" MODIFIED="1587308404326" TEXT="He rarely goes by taxi. ">
 <richcontent TYPE="NOTE"><html>
@@ -332,8 +326,7 @@
       He goes by taxi very seldom.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587308428434" ID="ID_378473117" MODIFIED="1587308447309" TEXT="He goes by taxi ones a mounts."/>
 <node CREATED="1587308483913" ID="ID_1460754236" MODIFIED="1587308507829" TEXT="He doesn&apos;t like public transport."/>
@@ -348,21 +341,19 @@
       &#1057;&#1080;&#1083;&#1100;&#1074;&#1072; &#1091;&#1084;&#1085;&#1077;&#1077; &#1095;&#1077;&#1084; &#1051;&#1091;&#1085;&#1090;&#1080;&#1082;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1587308683865" ID="ID_1134964758" MODIFIED="1587308810099" TEXT="Silva has always been smarter than Luntic.">
+<node CREATED="1587308683865" ID="ID_1134964758" MODIFIED="1587398036657" TEXT="Silva has always been smarter than Luntic.">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#1057;&#1080;&#1083;&#1100;&#1074;&#1072; &#1074;&#1089;&#1077;&#1075;&#1076;&#1072; &#1073;&#1099;&#1083;&#1072; &#1091;&#1084;&#1085;&#1077;&#1077;&#1095;&#1077;&#1084; &#1051;&#1091;&#1085;&#1090;&#1080;&#1082;
+      &#1057;&#1080;&#1083;&#1100;&#1074;&#1072; &#1074;&#1089;&#1077;&#1075;&#1076;&#1072; &#1073;&#1099;&#1083;&#1072; &#1091;&#1084;&#1085;&#1077;&#1077; &#1095;&#1077;&#1084; &#1051;&#1091;&#1085;&#1090;&#1080;&#1082;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587308810073" ID="ID_1952766319" MODIFIED="1587309217350" TEXT="I&apos;ve never talked with her."/>
 <node CREATED="1587309238986" ID="ID_891337983" MODIFIED="1587309375381" TEXT="They say she&apos;s beautiful."/>
@@ -378,8 +369,7 @@
       &#1053;&#1086; &#1086;&#1085; &#1087;&#1077;&#1088;&#1077;&#1077;&#1093;&#1072;&#1083; &#1076;&#1074;&#1072; &#1075;&#1086;&#1076;&#1072; &#1085;&#1072;&#1079;&#1072;&#1076;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587309769545" ID="ID_1161566116" MODIFIED="1587309855413" TEXT="Where is he living now."/>
 <node CREATED="1587309879800" ID="ID_1918147580" MODIFIED="1587309903629" TEXT="Is it important?"/>
@@ -393,8 +383,7 @@
       &#1055;&#1086;&#1095;&#1077;&#1084;&#1091; &#1090;&#1099; &#1093;&#1086;&#1095;&#1077;&#1096;&#1100; &#1091;&#1079;&#1085;&#1072;&#1090;&#1100;?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587310067864" ID="ID_1211154013" MODIFIED="1587310141885" TEXT="Why do you want to know where he lives?"/>
 <node CREATED="1587310451760" ID="ID_1493909420" MODIFIED="1587310469660" TEXT="Let me see">
@@ -407,15 +396,14 @@
       &#1044;&#1072;&#1081;&#1090;&#1077; &#1087;&#1086;&#1076;&#1091;&#1084;&#1072;&#1102;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587311060600" ID="ID_756053187" MODIFIED="1587311126596" TEXT="How much do you weigh?"/>
 <node CREATED="1587311135753" ID="ID_868199460" MODIFIED="1587311181348" TEXT="What is your weight?"/>
 </node>
 </node>
-<node CREATED="1587300793932" ID="ID_1030646935" MODIFIED="1587361574261" POSITION="left" TEXT="phrase">
-<node CREATED="1587300803046" ID="ID_944776601" MODIFIED="1587311729846" TEXT="initial">
+<node CREATED="1587300793932" FOLDED="true" ID="ID_1030646935" MODIFIED="1587398627805" POSITION="left" TEXT="phrase">
+<node CREATED="1587300803046" ID="ID_944776601" MODIFIED="1587310257293" TEXT="initial">
 <node CREATED="1587300875492" ID="ID_106222914" MODIFIED="1587300881527" TEXT="By the way"/>
 <node CREATED="1587300882506" ID="ID_1303704015" MODIFIED="1587300886967" TEXT="In fact"/>
 <node CREATED="1587300890356" ID="ID_1589275544" MODIFIED="1587300954607" TEXT="Unfortunately"/>
@@ -431,17 +419,16 @@
       &#1074; &#1082;&#1086;&#1085;&#1094;&#1077; &#1082;&#1086;&#1085;&#1094;&#1086;&#1074;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1587310580783" ID="ID_476577599" MODIFIED="1587310635506" TEXT="So">
+<node CREATED="1587310580783" ID="ID_476577599" MODIFIED="1587398609874" TEXT="So">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#1048; &#1090;&#1072;&#1082;<br />&#1055;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091;
+      &#1048; &#1090;&#1072;&#1082;;<br />&#1055;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091;.
     </p>
   </body>
 </html>
@@ -504,8 +491,7 @@
       &#1054;&#1082;&#1086;&#1083;&#1086;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1587307586681" ID="ID_24502619" MODIFIED="1587307803037" TEXT="I&apos;ve worked in a bank for about/around 10 years ago">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -516,8 +502,7 @@
       &#1071; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1083; &#1074;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
