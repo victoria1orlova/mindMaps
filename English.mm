@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1587226465646" ID="ID_975995512" MODIFIED="1587281503779" TEXT="English">
-<node CREATED="1587226694760" FOLDED="true" ID="ID_1418205736" MODIFIED="1587573344292" POSITION="right" TEXT="Present simple">
+<node CREATED="1587226694760" ID="ID_1418205736" MODIFIED="1603016941889" POSITION="right" TEXT="Present simple">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -14,8 +14,22 @@
       does
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<node CREATED="1603016944192" ID="ID_1767998099" MODIFIED="1603017141500" TEXT="use">
+<icon BUILTIN="full-1"/>
+<node CREATED="1603016972005" ID="ID_1813040770" MODIFIED="1603016984759" TEXT="Present habits"/>
+<node CREATED="1603016990380" ID="ID_1389330060" MODIFIED="1603017008563" TEXT="Permanent situations"/>
+</node>
+<node CREATED="1603017026507" ID="ID_1800162579" MODIFIED="1603017180811" TEXT="phrases">
+<icon BUILTIN="full-2"/>
+<node CREATED="1603017053506" ID="ID_1186182737" MODIFIED="1603017061063" TEXT="always"/>
+<node CREATED="1603017062378" ID="ID_668994783" MODIFIED="1603017080313" TEXT="usually"/>
+<node CREATED="1603017082194" ID="ID_1127685869" MODIFIED="1603017091999" TEXT="sometimes"/>
+<node CREATED="1603017093256" ID="ID_1985388145" MODIFIED="1603017112998" TEXT="rerely"/>
+<node CREATED="1603017114254" ID="ID_1194283267" MODIFIED="1603017125627" TEXT="never"/>
+</node>
+<node CREATED="1603016918073" ID="ID_500282830" MODIFIED="1603017151190" TEXT="sample">
+<icon BUILTIN="full-3"/>
 <node CREATED="1587226764703" ID="ID_1938946634" MODIFIED="1587571747591" TEXT="I do it."/>
 <node CREATED="1587571709362" ID="ID_1247270275" MODIFIED="1587571745250" TEXT="I don&apos;t do it."/>
 <node CREATED="1587226783514" ID="ID_1649261889" MODIFIED="1587226859341" TEXT="You do it. Don&apos;t you?"/>
@@ -23,6 +37,7 @@
 <node CREATED="1587382916024" ID="ID_935081165" MODIFIED="1587382932139" TEXT="Don&apos;t you agree with me?"/>
 <node CREATED="1587382975496" ID="ID_838702258" MODIFIED="1587385473513" TEXT="Do you disagree with me?">
 <font NAME="SansSerif" SIZE="11"/>
+</node>
 </node>
 </node>
 <node CREATED="1587227298729" FOLDED="true" ID="ID_1771137534" MODIFIED="1587311751203" POSITION="left" TEXT="Past simple">
@@ -40,24 +55,41 @@
 <node CREATED="1587227425106" ID="ID_1058223525" MODIFIED="1587227522273" TEXT="You did it. Didn&apos;t you?"/>
 <node CREATED="1587227522635" ID="ID_1728713608" MODIFIED="1587227610825" TEXT="You didn&apos;t do it. Did you?"/>
 </node>
-<node CREATED="1587227790111" FOLDED="true" ID="ID_1491933218" MODIFIED="1587573863975" POSITION="right" TEXT="Present continues">
+<node CREATED="1587227790111" ID="ID_1491933218" MODIFIED="1602848628507" POSITION="right" TEXT="Present continues">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      am
+      I am
     </p>
     <p>
       is
     </p>
     <p>
+      &#160;he
+    </p>
+    <p>
+      &#160;she
+    </p>
+    <p>
+      &#160;it
+    </p>
+    <p>
       are
     </p>
+    <p>
+      &#160;you
+    </p>
+    <p>
+      &#160;we
+    </p>
+    <p>
+      &#160;they<br />
+    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="ksmiletris"/>
 <node CREATED="1587573710235" ID="ID_443516503" MODIFIED="1587573771566" TEXT="Are you doing it now?"/>
 <node CREATED="1587230920792" ID="ID_1042218101" MODIFIED="1587230954476" TEXT="You are doing it now!"/>
@@ -410,10 +442,11 @@
 </node>
 </node>
 <node CREATED="1587300793932" ID="ID_1030646935" MODIFIED="1587571149396" POSITION="left" TEXT="phrase">
-<node CREATED="1587300803046" FOLDED="true" ID="ID_944776601" MODIFIED="1587572895976" TEXT="initial">
+<node CREATED="1587300803046" FOLDED="true" ID="ID_944776601" MODIFIED="1602848457801" TEXT="initial">
 <node CREATED="1587300875492" ID="ID_106222914" MODIFIED="1587300881527" TEXT="By the way"/>
 <node CREATED="1587300882506" ID="ID_1303704015" MODIFIED="1587300886967" TEXT="In fact"/>
 <node CREATED="1587300890356" ID="ID_1589275544" MODIFIED="1587300954607" TEXT="Unfortunately"/>
+<node CREATED="1602848339125" ID="ID_589985266" MODIFIED="1602848355679" TEXT="If I&apos;m not mistaken"/>
 <node CREATED="1587301980940" ID="ID_961785672" MODIFIED="1587301986359" TEXT="I was mistaken"/>
 <node CREATED="1587308464305" ID="ID_814838939" MODIFIED="1587308474525" TEXT="In general"/>
 <node CREATED="1587310366696" ID="ID_606914604" MODIFIED="1587310395456" TEXT="Finally">
@@ -483,7 +516,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1587307344115" FOLDED="true" ID="ID_1365961729" MODIFIED="1587573267830" TEXT="Dictionary">
+<node CREATED="1587307344115" FOLDED="true" ID="ID_1365961729" MODIFIED="1602848464867" TEXT="Dictionary">
 <node CREATED="1587307354394" ID="ID_1407099026" MODIFIED="1587307446243" TEXT="around/about">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -519,8 +552,7 @@
       &#1063;&#1072;&#1089;&#1090;&#1086;&#1090;&#1072;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1587571591915" ID="ID_694193243" MODIFIED="1587571598640" TEXT="never"/>
 <node CREATED="1587571600643" ID="ID_1716389409" MODIFIED="1587572032546" TEXT="rarely">
 <richcontent TYPE="NOTE"><html>
@@ -532,8 +564,7 @@
       &#1088;&#1077;&#1076;&#1082;&#1086;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587571941259" ID="ID_1767695252" MODIFIED="1587572044542" TEXT="occasinally">
 <richcontent TYPE="NOTE"><html>
@@ -545,8 +576,7 @@
       &#1080;&#1079;&#1088;&#1077;&#1076;&#1082;&#1072;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1587571953098" ID="ID_93866132" MODIFIED="1587571959487" TEXT="sometimes"/>
 <node CREATED="1587572087747" ID="ID_1706971972" MODIFIED="1587572124919" TEXT="often"/>
