@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1587226465646" ID="ID_975995512" MODIFIED="1587281503779" TEXT="English">
-<node CREATED="1587226694760" FOLDED="true" ID="ID_1418205736" MODIFIED="1614751640012" POSITION="right" TEXT="Present simple">
+<node CREATED="1587226694760" ID="ID_1418205736" MODIFIED="1615267461551" POSITION="right" TEXT="Present simple">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -15,7 +15,17 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1603016944192" FOLDED="true" ID="ID_1767998099" MODIFIED="1614751630740" TEXT="use">
+<node CREATED="1615267484653" ID="ID_879664976" MODIFIED="1615267489987" TEXT="rule">
+<node CREATED="1615267501654" ID="ID_1563733419" MODIFIED="1615267503008" TEXT="&#x41e;&#x431;&#x449;&#x438;&#x435; &#x443;&#x442;&#x432;&#x435;&#x440;&#x436;&#x434;&#x435;&#x43d;&#x438;&#x44f;"/>
+<node CREATED="1615267509868" ID="ID_13465073" MODIFIED="1615267511193" TEXT="&#x41e;&#x431;&#x449;&#x435;&#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43d;&#x44b;&#x435; &#x444;&#x430;&#x43a;&#x442;&#x44b;"/>
+<node CREATED="1615267512293" ID="ID_1826975544" MODIFIED="1615267525810" TEXT="&#x420;&#x435;&#x433;&#x443;&#x43b;&#x44f;&#x440;&#x43d;&#x43e; &#x43f;&#x43e;&#x432;&#x442;&#x43e;&#x440;&#x44f;&#x44e;&#x449;&#x438;&#x435;&#x441;&#x44f; &#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x44f;"/>
+<node CREATED="1615267535669" ID="ID_1246864714" MODIFIED="1615267536784" TEXT="&#x420;&#x430;&#x441;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x44f; &#x438; &#x434;&#x43e;&#x433;&#x43e;&#x432;&#x43e;&#x440;&#x435;&#x43d;&#x43d;&#x43e;&#x441;&#x442;&#x438;"/>
+<node CREATED="1615267537701" ID="ID_1002301855" MODIFIED="1615267545369" TEXT="&#x418;&#x43d;&#x441;&#x442;&#x440;&#x443;&#x43a;&#x446;&#x438;&#x438;"/>
+<node CREATED="1615267551668" ID="ID_337564801" MODIFIED="1615267552441" TEXT="&#x41a;&#x43e;&#x43c;&#x43c;&#x435;&#x43d;&#x442;&#x430;&#x440;&#x438;&#x438;"/>
+<node CREATED="1615267573261" ID="ID_220689157" MODIFIED="1615267574753" TEXT="&#x421; &quot;&#x43d;&#x435;&#x434;&#x43b;&#x438;&#x442;&#x435;&#x43b;&#x44c;&#x43d;&#x44b;&#x43c;&#x438;&quot; &#x433;&#x43b;&#x430;&#x433;&#x43e;&#x43b;&#x430;&#x43c;&#x438;"/>
+<node CREATED="1615267583334" ID="ID_1894324048" MODIFIED="1615267584393" TEXT="&#x412; &#x437;&#x430;&#x433;&#x43e;&#x43b;&#x43e;&#x432;&#x43a;&#x430;&#x445;"/>
+</node>
+<node CREATED="1603016944192" ID="ID_1767998099" MODIFIED="1615267468585" TEXT="using">
 <icon BUILTIN="full-1"/>
 <node CREATED="1603016972005" ID="ID_1813040770" MODIFIED="1603016984759" TEXT="Present habits"/>
 <node CREATED="1603016990380" ID="ID_1389330060" MODIFIED="1603017008563" TEXT="Permanent situations"/>
@@ -91,10 +101,7 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="ksmiletris"/>
-<node CREATED="1587573710235" ID="ID_443516503" MODIFIED="1587573771566" TEXT="Are you doing it now?"/>
-<node CREATED="1587230920792" ID="ID_1042218101" MODIFIED="1587230954476" TEXT="You are doing it now!"/>
-<node CREATED="1587230966512" ID="ID_730549791" MODIFIED="1587230989212" TEXT="You are doing it now! Aren&apos;t you?"/>
-<node CREATED="1614750861403" ID="ID_1314514476" MODIFIED="1614750870374" TEXT="rule">
+<node CREATED="1614750861403" ID="ID_1314514476" MODIFIED="1615267459306" TEXT="rule">
 <node CREATED="1614750872403" ID="ID_1443857482" MODIFIED="1614751196253" TEXT="&#x412; &#x43c;&#x43e;&#x43c;&#x435;&#x43d;&#x442; &#x440;&#x435;&#x447;&#x438;">
 <icon BUILTIN="full-1"/>
 <node CREATED="1614751116074" ID="ID_1971256853" MODIFIED="1614751173925" TEXT="&#x41d;&#x430;&#x445;&#x43e;&#x434;&#x44f;&#x441;&#x44c; &#x432; &#x41e;&#x434;&#x435;&#x441;&#x441;&#x435; &#x44f; &#x441;&#x43f;&#x440;&#x430;&#x448;&#x438;&#x432;&#x430;&#x44e;: &quot;&#x422;&#x44b; &#x447;&#x435;&#x43c; &#x442;&#x443;&#x442; &#x437;&#x430;&#x43d;&#x438;&#x43c;&#x430;&#x435;&#x448;&#x44c;&#x441;&#x44f;?&quot;"/>
@@ -119,6 +126,11 @@
 <icon BUILTIN="full-5"/>
 <node CREATED="1614751435695" ID="ID_1290204786" MODIFIED="1614751437701" TEXT="more and more people are leaving the country"/>
 </node>
+</node>
+<node CREATED="1615267471844" ID="ID_180290795" MODIFIED="1615267474008" TEXT="using">
+<node CREATED="1587573710235" ID="ID_443516503" MODIFIED="1587573771566" TEXT="Are you doing it now?"/>
+<node CREATED="1587230920792" ID="ID_1042218101" MODIFIED="1587230954476" TEXT="You are doing it now!"/>
+<node CREATED="1587230966512" ID="ID_730549791" MODIFIED="1587230989212" TEXT="You are doing it now! Aren&apos;t you?"/>
 </node>
 </node>
 <node CREATED="1587280961050" ID="ID_813123514" MODIFIED="1587281503749" POSITION="left" TEXT="Irregular verbs">
@@ -579,8 +591,7 @@
       &#1077;&#1089;&#1083;&#1080; &#1075;&#1083;&#1072;&#1075;&#1086;&#1083; &#1090;&#1086; &#1091;&#1076;&#1072;&#1088;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072; &#1074;&#1090;&#1086;&#1088;&#1086;&#1081; &#1089;&#1083;&#1086;&#1075;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1614750654023" ID="ID_1879053657" MODIFIED="1614750659318" TEXT="Export"/>
 <node CREATED="1614750748978" ID="ID_1065435406" MODIFIED="1614750777224" TEXT="Import"/>
 <node CREATED="1614750739171" ID="ID_1035157790" MODIFIED="1614750747990" TEXT="Record"/>
