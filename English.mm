@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1587226465646" ID="ID_975995512" MODIFIED="1587281503779" TEXT="English">
-<node CREATED="1587226694760" ID="ID_1418205736" MODIFIED="1615267461551" POSITION="right" TEXT="Present simple">
+<node CREATED="1587226694760" FOLDED="true" ID="ID_1418205736" MODIFIED="1615633626455" POSITION="right" TEXT="Present simple">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -65,7 +65,7 @@
 <node CREATED="1587227425106" ID="ID_1058223525" MODIFIED="1587227522273" TEXT="You did it. Didn&apos;t you?"/>
 <node CREATED="1587227522635" ID="ID_1728713608" MODIFIED="1587227610825" TEXT="You didn&apos;t do it. Did you?"/>
 </node>
-<node CREATED="1587227790111" ID="ID_1491933218" MODIFIED="1614750860068" POSITION="right" TEXT="Present continues">
+<node CREATED="1587227790111" FOLDED="true" ID="ID_1491933218" MODIFIED="1615633628196" POSITION="right" TEXT="Present continues">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -202,7 +202,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1587307532386" ID="ID_614395794" MODIFIED="1614250260802" POSITION="right" TEXT="Maslov">
+<node CREATED="1587307532386" FOLDED="true" ID="ID_614395794" MODIFIED="1615633630483" POSITION="right" TEXT="Maslov">
 <node CREATED="1587299236709" FOLDED="true" ID="ID_568163327" MODIFIED="1614750566697" TEXT="06.12.18">
 <node CREATED="1587299245148" ID="ID_256588483" MODIFIED="1587299303480" TEXT="Have you decided it yet?"/>
 <node CREATED="1587300037956" ID="ID_421181488" MODIFIED="1587300060479" TEXT="I&apos;ve always been Ukrainian."/>
