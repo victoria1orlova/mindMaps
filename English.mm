@@ -1,6 +1,17 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1587226465646" ID="ID_975995512" MODIFIED="1587281503779" TEXT="English">
+<node CREATED="1587226465646" ID="ID_975995512" MODIFIED="1625393142491" TEXT="English">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      grammarway.com
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1587226694760" FOLDED="true" ID="ID_1418205736" MODIFIED="1615633626455" POSITION="right" TEXT="Present simple">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -65,7 +76,7 @@
 <node CREATED="1587227425106" ID="ID_1058223525" MODIFIED="1587227522273" TEXT="You did it. Didn&apos;t you?"/>
 <node CREATED="1587227522635" ID="ID_1728713608" MODIFIED="1587227610825" TEXT="You didn&apos;t do it. Did you?"/>
 </node>
-<node CREATED="1587227790111" FOLDED="true" ID="ID_1491933218" MODIFIED="1615633628196" POSITION="right" TEXT="Present continues">
+<node CREATED="1587227790111" FOLDED="true" ID="ID_1491933218" MODIFIED="1625393105170" POSITION="right" TEXT="Present continues">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -202,7 +213,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1587307532386" FOLDED="true" ID="ID_614395794" MODIFIED="1615633630483" POSITION="right" TEXT="Maslov">
+<node CREATED="1587307532386" FOLDED="true" ID="ID_614395794" MODIFIED="1625394393715" POSITION="right" TEXT="Maslov">
 <node CREATED="1587299236709" FOLDED="true" ID="ID_568163327" MODIFIED="1614750566697" TEXT="06.12.18">
 <node CREATED="1587299245148" ID="ID_256588483" MODIFIED="1587299303480" TEXT="Have you decided it yet?"/>
 <node CREATED="1587300037956" ID="ID_421181488" MODIFIED="1587300060479" TEXT="I&apos;ve always been Ukrainian."/>
@@ -751,6 +762,96 @@
 <node CREATED="1587572523004" ID="ID_1109033734" MODIFIED="1587572532120" TEXT="monthly"/>
 <node CREATED="1587572669844" ID="ID_125612495" MODIFIED="1587572705495" TEXT="every year"/>
 <node CREATED="1587572706979" ID="ID_113288016" MODIFIED="1587572717703" TEXT="yearly"/>
+</node>
+</node>
+<node CREATED="1625393026666" ID="ID_148697916" MODIFIED="1625393050211" POSITION="right" TEXT="DevelopmentTree">
+<node CREATED="1625393065209" ID="ID_1865425287" MODIFIED="1625394032371" TEXT="&#x42f; &#x434;&#x435;&#x43b;&#x430;&#x44e; &#x44d;&#x442;&#x43e;">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Present simple
+    </p>
+    <p>
+      I do it
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1625393088928" ID="ID_1598270908" MODIFIED="1625394419227" TEXT="&#x42f; &#x434;&#x435;&#x43b;&#x430;&#x44e; &#x44d;&#x442;&#x43e; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441;">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Present continues
+    </p>
+    <p>
+      I am doing it now
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1625393324047" ID="ID_1773178222" MODIFIED="1625394238723" TEXT="&#x42f; &#x443;&#x436;&#x435; &#x441;&#x434;&#x435;&#x43b;&#x430;&#x43b;&#x430; &#x44d;&#x442;&#x43e;">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Present perfect
+    </p>
+    <p>
+      I have already done it
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1625393279808" ID="ID_293159181" MODIFIED="1625394468163" TEXT="&#x42f; &#x434;&#x435;&#x43b;&#x430;&#x44e; &#x44d;&#x442;&#x43e; &#x434;&#x432;&#x430; &#x447;&#x430;&#x441;&#x430;">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Present perfect continues
+    </p>
+    <p>
+      I have been doing it for a two hours
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1625393392800" ID="ID_271684921" MODIFIED="1625394491221" TEXT="&#x42d;&#x442;&#x43e; &#x441;&#x434;&#x435;&#x43b;&#x430;&#x43d;&#x43e; &#x43c;&#x43d;&#x43e;&#x439;">
+<node CREATED="1625393507041" ID="ID_561465493" MODIFIED="1625393531371" TEXT="&#x42d;&#x442;&#x43e; &#x434;&#x435;&#x43b;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43c;&#x43d;&#x43e;&#x439;">
+<node CREATED="1625393547217" ID="ID_1625051670" MODIFIED="1625393568804" TEXT="&#x42d;&#x442;&#x43e; &#x443;&#x436;&#x435; &#x441;&#x434;&#x435;&#x43b;&#x430;&#x43d;&#x43e; &#x43c;&#x43d;&#x43e;&#x439;">
+<node CREATED="1625393570152" ID="ID_61709426" MODIFIED="1625393587933" TEXT="&#x42d;&#x442;&#x43e; &#x434;&#x435;&#x43b;&#x430;&#x435;&#x442;&#x441;&#x44f; &#x43c;&#x43d;&#x43e;&#x439; &#x434;&#x432;&#x430; &#x447;&#x430;&#x441;&#x430;">
+<node CREATED="1625393591128" ID="ID_1179522682" MODIFIED="1625393984361" TEXT="&#x42f; &#x43a;&#x43e;&#x433;&#x434;&#x430;-&#x442;&#x43e; &#x434;&#x435;&#x43b;&#x430;&#x43b;&#x430; &#x44d;&#x442;&#x43e;">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Past habits
+    </p>
+    <p>
+      I used to do it
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
