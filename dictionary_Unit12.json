@@ -1,0 +1,222 @@
+[
+  {
+    "Text": "apologise",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "boyfriend",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "close",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "confident",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "cool",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "couple",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "decorate",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "defend",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "divorced",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "flat",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "generous",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "girlfriend",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "grateful",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "guest",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "independent",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "introduce",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "loving",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "loyal",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "mood",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "neighborhood",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "ordinary",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "patient",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "private",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "recognize",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "relation",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "rent",
+    "PartsOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "respect",
+    "PartsOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "single",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "stranger",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "trust",
+    "PartsOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  }
+]
