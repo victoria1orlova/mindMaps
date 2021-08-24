@@ -1,0 +1,631 @@
+[
+  {
+    "Text": "a book (by sb) about",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "a fan of",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "a game against",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "feel like",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "listen to",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "take part in",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "bored with",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "crazy about",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "good at",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "interested in",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "keen on",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "popular with",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "wordPattern"
+  },
+  {
+    "Text": "act",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "action",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "active",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "inactive",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "actor",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "athlete",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "athletic",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "athletics",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "collect",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "collection",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "collector",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "entertain",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "entertainment",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "hero",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "heroic",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "heroine",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "music",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "musical",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "musician",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "play",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "player",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "playful",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "sail",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "sailing",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "sailor",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "sing",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "sang",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "sung",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "song",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "singer",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "singing",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "wordFormation"
+  },
+  {
+    "Text": "for a long time",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "for fun",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "in the middle",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "in the middle of",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "in time",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "in time for",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "on CD/video",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "on stage",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "carry on",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "eat out",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "give up",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "join in",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "send off",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "take up",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "turn down",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "turn up",
+    "PartsOfSpeech": [
+      "none"
+    ],
+    "Category": "prepositionalPhrases"
+  },
+  {
+    "Text": "beat",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "board game",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "captain",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "challenge",
+    "PartsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "champion",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "cheat",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "classical music",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "club",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "coach",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "competition",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "concert",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "defeat",
+    "PartsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "entertaining",
+    "PartsOfSpeech": [
+      "adjective"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "fold music",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "group",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "gym",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "have fun",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "interest",
+    "PartsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "member",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "opponent",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "organize",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "pleasure",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "referee",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "rhythm",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "risk",
+    "PartsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "score",
+    "PartsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "support",
+    "PartsOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "team",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "train",
+    "PartsOfSpeech": [
+      "verb"
+    ],
+    "Category": "word"
+  },
+  {
+    "Text": "video game",
+    "PartsOfSpeech": [
+      "noun"
+    ],
+    "Category": "word"
+  }
+]
